@@ -9,13 +9,15 @@ link:
 version control is like an `epic` save button that allow us to revert back to previous version of a project or a file. It is used to keep track of the versions of  our project 
 
 ### Local
-![[Pasted image 20241215121915.png|300]]
+![Pasted image|300](images/Pasted%20image%2020241215121915.png)
+
 
 ### Centralized
-![[Pasted image 20241215122127.png|300]]
+![Pasted image|300](images/Pasted%20image%2020241215122127.png)
 
 ### Distributed
-![[Pasted image 20241215122158.png|300]]
+![Pasted image|300](images/Pasted%20image%2020241215122158.png)
+
 ### Comparison Table
 
 | Feature             | Local VCS   | Centralized VCS        | Distributed VCS |
